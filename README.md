@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gramman87
 - 👀 I’m interested in LEARNING EVERYTHING!!!
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on simple, fundimental projects.
+- 💞️ I’m looking to collaborate on simple, fundamental projects.
 - 📫 How to reach me on here...
 
 <!---
